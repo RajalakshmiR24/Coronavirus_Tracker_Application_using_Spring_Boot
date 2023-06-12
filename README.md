@@ -55,6 +55,6 @@ Contributions are welcome! If you find any bugs or want to add new features, ple
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
 ## Acknowledgements
-Data provided by Example COVID-19 API
+Data provided by Example COVID-19 API<br>
 Inspired by Another COVID-19 Tracker Project
 
