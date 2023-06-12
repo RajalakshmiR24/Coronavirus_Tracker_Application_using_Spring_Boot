@@ -23,4 +23,4 @@ To run this application locally, follow these steps:
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/coronavirus-tracker.git
+https://github.com/RajalakshmiR24/Coronavirus_Tracker_Application_using_Spring_Boot.git
